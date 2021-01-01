@@ -6,7 +6,7 @@
 - nodeがインストールされている前提
 1. リポジトリのclone
 ```
-git@github.com:takahiro-bigwest/next-study.git
+git clone git@github.com:takahiro-bigwest/next-study.git
 ```
 
 3. パッケージインストール
