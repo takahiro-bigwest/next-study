@@ -1,1 +1,27 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# next.jsのチュートリアル
+
+#### チュートリアルにあるブログを作成
+
+#### 実行手順
+- nodeがインストールされている前提
+1. リポジトリのclone
+```
+git@github.com:takahiro-bigwest/next-study.git
+```
+
+3. パッケージインストール
+```
+npm install
+```
+
+2. サーバー起動
+```
+npm run dev
+```
+
+
+
+
+
+
+
